@@ -1,4 +1,4 @@
 plugins:
   - jekyll-remote-theme
 
-remote_theme: zivhub/monophase@main
+remote_theme: kitian616/jekyll-TeXt-theme@main
